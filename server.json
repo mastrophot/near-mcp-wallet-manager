@@ -6,12 +6,12 @@
     "url": "https://github.com/mastrophot/near-mcp-wallet-manager",
     "source": "github"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "packages": [
     {
       "registryType": "npm",
       "identifier": "mcp-near-wallet-manager",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "transport": {
         "type": "stdio"
       },
